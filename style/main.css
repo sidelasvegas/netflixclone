@@ -10,7 +10,7 @@
 }
 /** BASE*/
 body{
-    background: var(--preta);
+    background: black;
     font-family: 'Times New Roman', Times, serif;
     color: white;
 }
@@ -24,7 +24,7 @@ header .container{
 }
 header .logo{
     margin-left: 5px;
-    color: var(--vermelho);
+    color: red;
     font-family: 'Arial Narrow Bold', sans-serif;
     font-size:40px;
  
